@@ -19,7 +19,7 @@
     },
     "license": "(MIT AND Apache-2.0)",
     "author": "Dylan Vann <dylan@dylanvann.com> (https://dylanvann.com)",
-    "main": "index.tsx",
+    "main": "src/index.tsx",
     "module": "dist/index.js",
     "typings": "dist/index.d.ts",
     "files": [
